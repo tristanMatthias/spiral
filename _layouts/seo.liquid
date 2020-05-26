@@ -1,3 +1,15 @@
+{% metaImage seo.image, defaultSeo.image %}
+{% metaTitle title, defaultSeo.title %}
+{% canonical page.url %}
+{% metaDescription seo.author, defaultSeo.description %}
+{% metaAuthor seo.author, defaultSeo.author %}
+{% twitter seo.twitter, defaultSeo.twitter %}
+<meta property="og:site_name" content="A Matter of Perpective" />
+<meta name="robots" content="index,follow">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
@@ -17,22 +29,6 @@
 <meta name="msapplication-TileColor" content="#e9e5e5">
 <meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#e9e5e5">
-
-
-
-{% metaTitle title, defaultSeo.title %}
-{% canonical page.url %}
-{% metaDescription seo.author, defaultSeo.description %}
-{% metaAuthor seo.author, defaultSeo.author %}
-{% twitter seo.twitter, defaultSeo.twitter %}
-{% metaImage seo.image, defaultSeo.image %}
-
-<meta property="og:site_name" content="A Matter of Perpective" />
-
-
-<meta name="robots" content="index,follow">
-<meta property="og:type" content="article">
-<meta name="twitter:card" content="summary">
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
