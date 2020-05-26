@@ -23,7 +23,7 @@ module.exports.twitter = (twitter, d) => `
 `;
 
 module.exports.image = (image, d) => `
-<meta name="og:image" content="${domain}${image || d}">
+<meta property="og:image" content="${domain}${image || d}">
 <meta name="twitter:image" content="${domain}${image || d}">
 `;
 
