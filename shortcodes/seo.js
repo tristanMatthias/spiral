@@ -1,5 +1,4 @@
-// TODO: Update this
-const domain = "https://perspective.com";
+const domain = "https://spirals.blog";
 
 module.exports.canonical = (url) => `
 <link rel="canonical" href="${domain}${url}" />
