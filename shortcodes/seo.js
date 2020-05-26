@@ -23,8 +23,8 @@ module.exports.twitter = (twitter, d) => `
 `;
 
 module.exports.image = (image, d) => `
-<meta name="og:image" content="${image || d}">
-<meta name="twitter:image" content="${image || d}">
+<meta name="og:image" content="${domin}${image || d}">
+<meta name="twitter:image" content="${domin}${image || d}">
 `;
 
 module.exports.metaAuthor = (authorUrl, d) => `<link rel="author" href="${authorUrl || d}" />`;
