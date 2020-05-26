@@ -1,4 +1,3 @@
-
 {% assign previousPost = collections.articles | getPreviousCollectionItem: page %}
 {% assign nextPost = collections.articles | getNextCollectionItem: page %}
 {% layout "base" %}
@@ -15,6 +14,9 @@
 
   <main>
     <h1>{{title}}</h1>
+    {{ tags | tagList }}
+    {% comment %} {% listTags tags=test %} {% endcomment %}
+    {% comment %} {% tags tags %} {% endcomment %}
     {{content}}
   </main>
 
@@ -24,6 +26,7 @@
         <span>Up Next</span>
         <h2>{{ nextPost.data.title }}</h2>
       </a>
+      {{ nextPost.data.tags | tagList }}
     {% endif %}
   </footer>
 {% endblock %}

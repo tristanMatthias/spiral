@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400&display=swap');
 @import 'reset';
 @import 'type';
+@import 'aside';
 
 * { box-sizing: border-box; }
 
@@ -37,35 +38,28 @@ body {
   margin-top: 8rem;
 }
 
-aside {
+.tag {
+  display: inline-block;
   text-align: center;
+  text-decoration: none;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border-radius: var(--border-radius);
+  background-color: var(--color-primary);
+  color: var(--color-bg);
+  height: 3rem;
+  padding: 0 1rem;
+  white-space: nowrap;
+  line-height: 2.3;
+  max-width: 20rem;
 
-  a.logo {
-    display: inline-flex;
-    align-items: center;
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 1.6rem;
-    user-select: none;
-
-    img {
-      height: 8rem;
-      margin-right: 1rem;
-      margin-top: -0.5rem;
-    }
-
-    &:last-child {
-      margin-bottom: 4rem;
-    }
+  & + & {
+    margin-left: 1rem;
+    margin-top: 1rem;
   }
 
-  @media (min-width: 1024px) {
-    position: fixed;
-    top: 13rem;
-    left: 50%;
-    transform: translateX(calc(-1 * (var(--wrapper-width) / 2) - 100% - var(--aside-gap)));
-    a.logo img {
-      height: 4rem;
-    }
-  }
+  &.intro { background-color: #615858; }
+  &.draft { background-color: var(--color-red); }
 }

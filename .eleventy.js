@@ -1,5 +1,5 @@
-const excerpt = require('eleventy-plugin-excerpt');
-const pluginSEO = require("eleventy-plugin-seo");
+const excerpt = require('./plugins/excerpt');
+const tagList = require('./shortcodes/tagList');
 
 
 module.exports = function (eleventyConfig) {
@@ -17,19 +17,9 @@ module.exports = function (eleventyConfig) {
   };
 
   eleventyConfig.setLibrary("liquid", liquidJs(options));
-  // eleventyConfig.addPlugin(pluginSEO);
-  eleventyConfig.addPlugin(pluginSEO, {
-    title: "Foobar Site",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    url: "https://foo.com",
-    author: "Jane Doe",
-    twitter: "username",
-    image: "foo.jpg"
-  });
-
-
   eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPlugin(excerpt, );
+  eleventyConfig.addPassthroughCopy("./articles/**/*.jpg");
+  eleventyConfig.addPlugin(excerpt);
 
   const htmlMetaCodes = require('./shortcodes/seo');
 
@@ -39,6 +29,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode('metaAuthor', htmlMetaCodes.metaAuthor);
   eleventyConfig.addShortcode('twitter', htmlMetaCodes.twitter);
   eleventyConfig.addShortcode('metaImage', htmlMetaCodes.image);
+
+  // eleventyConfig.addShortcode('listTags', tags);
+  // eleventyConfig.addLiquidFilter('listTags', tags);
+  eleventyConfig.addFilter("tagList", tagList);
+  // eleventyConfig.addFilter("listTags", function(tags) { return tags.join(t => `<a class="tag" href="/?tag=${t}">${t}</a>`) });
 
 
   return {

@@ -1,3 +1,6 @@
+h1 {
+  text-align: center;
+}
 h2, h3, h4, h5, h6 {
   text-align: center;
   margin-bottom: 3rem;
@@ -9,18 +12,21 @@ p {
   margin-bottom: 3rem;
 }
 
-aside .draft {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 4rem;
-  margin-top: 2rem;
-  margin-bottom: 4rem;
-  line-height: 0.5;
-  background-color: var(--color-red);
+.tags {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+main img {
+  max-width: calc(100% + 6rem);
+  margin-left: -3rem;
+  margin-right: -3rem;
   border-radius: var(--border-radius);
-  color: var(--color-bg);
-  font-weight: bold;
+
+  & + em {
+    display: block;
+    text-align: center;
+  }
 }
 
 
@@ -29,13 +35,16 @@ footer {
   background: var(--color-hover-bg);
   border-top-left-radius: var(--border-radius);
   border-top-right-radius: var(--border-radius);
-  margin: 0 -2rem;
+  margin: 0 -3rem;
+  margin-top: 16rem;
+  padding-bottom: 2rem;
 
   a {
-    padding: 6rem 2rem 2rem 2rem;
+    padding: 6rem 3rem 0 3rem;
     display: block;
     h2 {
       margin-top: 1rem;
+      margin-bottom: 0;
     }
   }
 }

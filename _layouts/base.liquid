@@ -13,19 +13,8 @@
 </head>
 <body>
   <div class="wrapper">
-    <aside>
-      <a href="/" class="logo">
-        <img src="/img/logo.svg" alt="A Matter of Perspective">
-        {% comment %} <span>A Matter of <br> Perspective.</span> {% endcomment %}
-      </a>
-      {% if draft %}
-        <span class="draft"><span>DRAFT</span></span>
-      {% endif %}
-
-      {{seo.author}}
-    </aside>
-    {% block main %}
-    {% endblock main %}
+    {% include "./aside" %}
+    {% block main %}{% endblock main %}
   </div>
 </body>
 </html>
