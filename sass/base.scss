@@ -17,7 +17,10 @@
 
 html {
   font-family: 'Crimson Text', serif;
-  font-size: 10px;
+  font-size: 7px;
+  @media (min-width: 600px) { font-size: 8px; }
+  @media (min-width: 720px) { font-size: 9px; }
+  @media (min-width: 1024px) { font-size: 10px; }
   background-color: var(--color-bg);
   color: var(--color-primary);
 }
@@ -35,21 +38,29 @@ body {
 }
 
 aside {
-  position: fixed;
-  top: 13rem;
-  left: 50%;
-  transform: translateX(calc(-1 * (var(--wrapper-width) / 2) - 100% - var(--aside-gap)));
+  text-align: center;
   a.logo {
-    display: flex;
+    display: inline-flex;
     align-items: center;
     text-decoration: none;
     font-weight: bold;
     font-size: 1.6rem;
     user-select: none;
+
     img {
-      height: 4rem;
+      height: 8rem;
       margin-right: 1rem;
       margin-top: -0.5rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    position: fixed;
+    top: 13rem;
+    left: 50%;
+    transform: translateX(calc(-1 * (var(--wrapper-width) / 2) - 100% - var(--aside-gap)));
+    a.logo img {
+      height: 4rem;
     }
   }
 }
