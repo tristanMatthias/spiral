@@ -1,0 +1,26 @@
+ul {
+  margin-top: -1rem;
+}
+
+ul a {
+  display: flex;
+  text-decoration: none;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 2rem;
+  border-radius: var(--border-radius);
+
+  h2 {
+    text-decoration: underline;
+    flex: 1;
+  }
+  small {
+    margin-top: 1rem;
+    flex-basis: 100%;
+  }
+
+  &:hover {
+    background: var(--color-hover-bg);
+    opacity: 1;
+  }
+}
