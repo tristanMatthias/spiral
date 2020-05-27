@@ -45,7 +45,7 @@ It was the early 1950's and Clare W. Graves had a problem. As a professor of Psy
 There were of course techniques that worked especially well for a certain type of person, however when applied to a someone else was unsuccessful. Or perhaps a theory worked brilliantly for a period of time, but as the patient grew older it ceased to work. This lack of certainty disturbed Graves to such a degree that he considered leaving the profession all together. Instead however, he was struck with an inspiration that would set him on a course for the rest of his life. A course that would end up changing the world forever...
 
 ![Clare W. Graves](graves.jpg)
-*The handsome man himself*
+*The handsome man himself ladies and gentlemen*
 
 From 1952 – 1959 he took it upon himself to study over a thousand men and women from all walks of life, varying countries, and disparate world views. His goal was simple; to find an answer to his students question. Was it truly possible to reconcile all these models and frameworks into a unifying theory to explain human behaviour? From his research, he began to notice patterns in the way people would behave in response to external conditions. These “coping mechanisms” would be shared across individuals, cultures, companies and even countries. “World views” that rose up to meet the challenges of the life.
 
