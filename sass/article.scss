@@ -18,6 +18,9 @@ p {
   margin-bottom: 3rem;
 }
 
+main {
+  margin-bottom: 16rem;
+}
 main img {
   max-width: calc(100% + 6rem);
   margin-left: -3rem;
@@ -37,7 +40,6 @@ footer {
   border-top-left-radius: var(--border-radius);
   border-top-right-radius: var(--border-radius);
   margin: 0 -3rem;
-  margin-top: 16rem;
   padding-bottom: 2rem;
 
   a {

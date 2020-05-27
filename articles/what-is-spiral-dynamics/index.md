@@ -65,4 +65,7 @@ So we can say that a “color” becomes **a collection of values & beliefs we d
 Where things become very interesting is when these “colors” are combined. Humans are complex creatures with a vast network of competing desires and needs that are often very misunderstood (even to ourselves). By using a language of perspective, we enable ourselves to decipher the various aspects of any given context, behaviour or intention in hopes to better understand it. Perhaps, with deep understanding, we may even change or improve the situation for a more desired outcome.
 
 ## Just the beginning
+![The road ahead](run.jpg)
+*By lucas Favre @we_are_rising*
+
 This article was written to cover the high levels of these concepts and provide an introduction into *why* you might choose to study Perspective. Over the course of this blog we will explore and unpack these colors in greater detail, giving practical breakdowns of how they work and how you can use them in your own life. We feel this model is a very powerful lens of seeing the world an our selves. The authors of this blog use Perspective every day in our personal and professional lives for a broad range of outcomes. We invite you to join us on the journey of self discovery and building a healthier, happier human race.
