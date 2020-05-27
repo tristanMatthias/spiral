@@ -19,6 +19,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLibrary("liquid", liquidJs(options));
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("./articles/**/*.jpg");
+  eleventyConfig.addPassthroughCopy("./articles/**/*.png");
+  eleventyConfig.addPassthroughCopy("./articles/**/*.gif");
   eleventyConfig.addPlugin(excerpt);
 
   const htmlMetaCodes = require('./shortcodes/seo');
