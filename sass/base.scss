@@ -2,6 +2,7 @@
 @import 'reset';
 @import 'type';
 @import 'aside';
+@import 'tags';
 
 * { box-sizing: border-box; }
 
@@ -9,6 +10,9 @@
   --color-primary: #2a2727;
   --color-bg: #e9e5e5;
   --color-red: #f55e5e;
+  --color-green: #2eca62;
+  --color-beginner: #216844;
+
   --color-hover-bg: #{rgba(#2a2727, 0.1)};
   --wrapper-width: 60rem;
   --aside-gap: 10rem;
@@ -36,30 +40,4 @@ body {
   max-width: var(--wrapper-width);
   margin: auto;
   margin-top: 8rem;
-}
-
-.tag {
-  display: inline-block;
-  text-align: center;
-  text-decoration: none;
-  font-size: 1.6rem;
-  text-transform: uppercase;
-  font-weight: bold;
-  letter-spacing: 1px;
-  border-radius: var(--border-radius);
-  background-color: var(--color-primary);
-  color: var(--color-bg);
-  height: 3rem;
-  padding: 0 1rem;
-  white-space: nowrap;
-  line-height: 2.3;
-  max-width: 20rem;
-
-  & + & {
-    margin-left: 1rem;
-    margin-top: 1rem;
-  }
-
-  &.intro { background-color: #615858; }
-  &.draft { background-color: var(--color-red); }
 }

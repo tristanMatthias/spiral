@@ -2,8 +2,7 @@
 title: Wholearchy over Hierarchy
 date: 2020-05-27
 tags:
-  - beginners
-  - draft
+  - beginner
 ---
 
 ## Is “higher” really “better”?

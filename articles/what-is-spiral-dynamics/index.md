@@ -1,7 +1,6 @@
 ---
 tags:
   - intro
-  - draft
 date: 2020-05-25
 title: What is Spiral Dynamics?
 seo:

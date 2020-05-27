@@ -2,8 +2,7 @@
 title: Behavior ≠ Intention
 date: 2020-05-26
 tags:
-  - intro
-  - draft
+  - beginner
 ---
 
 Can you remember a time when someone you knew (a friend, a lover, a boss, etc) was doing something you just didn’t understand? It would go on for what felt like ages until eventually you realised why they were doing it. It dawned on you  the real reason of their behavior (something they themselves may not have even realized) and your whole perspective shifted?
