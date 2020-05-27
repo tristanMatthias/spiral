@@ -1,5 +1,6 @@
 const excerpt = require('./plugins/excerpt');
 const tagList = require('./shortcodes/tagList');
+const articleContent = require('./filters/articleContent');
 
 
 module.exports = function (eleventyConfig) {
@@ -32,10 +33,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode('twitter', htmlMetaCodes.twitter);
   eleventyConfig.addShortcode('metaImage', htmlMetaCodes.image);
 
-  // eleventyConfig.addShortcode('listTags', tags);
-  // eleventyConfig.addLiquidFilter('listTags', tags);
   eleventyConfig.addFilter("tagList", tagList);
-  // eleventyConfig.addFilter("listTags", function(tags) { return tags.join(t => `<a class="tag" href="/?tag=${t}">${t}</a>`) });
+  eleventyConfig.addFilter("articleContent", articleContent);
 
 
   return {

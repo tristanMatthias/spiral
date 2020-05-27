@@ -3,14 +3,26 @@
 @import 'type';
 @import 'aside';
 @import 'tags';
+@import 'color';
+@import 'night-toggle';
 
 * { box-sizing: border-box; }
 
 :root {
   --color-primary: #2a2727;
   --color-bg: #e9e5e5;
+
+  --color-beige: #aa856d;
+  --color-purple: #a231ff;
   --color-red: #f55e5e;
-  --color-green: #2eca62;
+  --color-blue: #0f7fff;
+  --color-orange: #ec7c13;
+  --color-green: #07c747;
+  --color-yellow: #c0b01b;
+  --color-turquoise: #0eabc0;
+  --color-coral: #da6c8d;
+
+  --color-intro: #615858;
   --color-beginner: #216844;
 
   --color-hover-bg: #{rgba(#2a2727, 0.1)};
@@ -28,6 +40,13 @@ html {
   @media (min-width: 1024px) { font-size: 10px; }
   background-color: var(--color-bg);
   color: var(--color-primary);
+  transition: all 0.2s;
+
+  &.night {
+    background-color: #242427;
+    color: var(--color-bg);
+    --color-hover-bg: #{rgba(#e9e5e5, 0.05)};
+  }
 }
 
 body {

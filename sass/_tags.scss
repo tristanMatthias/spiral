@@ -21,7 +21,7 @@
   }
 
   &.intro {
-    background-color: #615858;
+    background-color: var(--color-intro);
     &::before { content: '👋 ' }
   }
   &.draft { background-color: var(--color-red); }

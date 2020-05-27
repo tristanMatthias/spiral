@@ -1,0 +1,24 @@
+<label class="night-toggle">
+
+  <input id="night-mode" type="checkbox">
+
+  <button>
+    <div class="toggle">
+      <span>☀️</span>
+      <span>🌙</span>
+    </div>
+  </button>
+
+  <script>
+    const inp = document.getElementById('night-mode');
+    const initial = localStorage.getItem('night') === 'true';
+    inp.checked = initial;
+    document.documentElement.classList.toggle('night', initial);
+
+    inp.onchange = function() {
+      document.documentElement.classList.toggle('night');
+      localStorage.setItem('night', document.documentElement.classList.contains('night'));
+    }
+  </script>
+
+</label>

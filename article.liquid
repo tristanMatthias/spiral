@@ -17,7 +17,7 @@
     {{ tags | tagList }}
     {% comment %} {% listTags tags=test %} {% endcomment %}
     {% comment %} {% tags tags %} {% endcomment %}
-    {{content}}
+    {{content | articleContent }}
   </main>
 
   {% if nextPost %}

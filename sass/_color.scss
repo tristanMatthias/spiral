@@ -1,0 +1,29 @@
+.color {
+  position: relative;
+  display: inline-block;
+  padding: 0 0.75rem;
+  border-bottom: 3px solid currentColor;
+  border-radius: var(--border-radius);
+
+  &.beige { color: var(--color-beige); }
+  &.purple { color: var(--color-purple); }
+  &.red { color: var(--color-red); }
+  &.blue { color: var(--color-blue); }
+  &.orange { color: var(--color-orange); }
+  &.green { color: var(--color-green); }
+  &.yellow { color: var(--color-yellow); }
+  &.turquoise { color: var(--color-turquoise); }
+  &.coral { color: var(--color-coral); }
+
+  &:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: calc(100% + 3px);
+    background: currentColor;
+    opacity: 0.15;
+    border-radius: var(--border-radius);
+  }
+}

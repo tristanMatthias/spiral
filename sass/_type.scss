@@ -1,6 +1,6 @@
 a {
   color: currentColor;
-  transition: 0.1s;
+  transition: opacity 0.1s;
 
   &:hover { opacity: 0.5; }
 }
