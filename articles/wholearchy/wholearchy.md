@@ -24,6 +24,7 @@ I get it. These “higher” colors introduce fancy words like “egalitarian”
 ## An Upside-Down House
 
 ![Unstable house](unstable.jpg)
+*By Landon Hook @landonhook*
 
 How do you build a house? It does not take an engineer to know that the first thing you put down is a good foundation. We find suitable ground, pour the cement, and lay a sturdy base for the rest of our marvellous creation. Yet somehow this principle is lost for many when it comes to learning and understanding Spiral. It’s an easy overstep to make! Identifying with “higher” colors without truly understanding the nuances is akin to building a roof, placing it on the bare earth and calling it a day. Better yet is when we invite people over to view our “house”, proclaiming marvels and showing off how beautiful the “ceiling” is!
 
