@@ -16,6 +16,10 @@ There is often much confusion when starting out on the journey of studying this 
 
 ## How would you personally define “Spiral Dynamics”?
 
+> A way to understand the motives which influence individuals and organizations
+>
+> – Shane Sheridan
+
 > “A framework that gives you a way to talk about all of the crazy things humans do to themselves and one another.”
 >
 > – Forrest Heath
