@@ -1,5 +1,6 @@
 ul {
   margin-top: -1rem;
+  margin-bottom: 16rem;
 }
 
 ul li {
@@ -35,5 +36,15 @@ ul li {
   &:hover {
     background: var(--color-hover-bg);
     opacity: 1;
+  }
+}
+
+
+
+h1 {
+  text-align: center;
+   .tag {
+    margin-left: 1rem;
+    transform: translateY(-1rem);
   }
 }

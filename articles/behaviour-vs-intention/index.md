@@ -5,6 +5,7 @@ tags:
   - beginner
 ---
 
+## Are colors things people "do"?
 Can you remember a time when someone you knew (a friend, a lover, a boss, etc) was doing something you just didn’t understand? It would go on for what felt like ages until eventually you realised why they were doing it. It dawned on you  the real reason of their behavior (something they themselves may not have even realized) and your whole perspective shifted?
 
 For me, it was when I discovered someone close to me was not working all those extra hours and spending all that effort on their job for money. The business and the work served as a method to hide themselves away from some distant shadow of the past. For so many years I had incorrectly judged behavior as a color, equating that because they were behaving this way it was driven by Blue. I could not have been more wrong.

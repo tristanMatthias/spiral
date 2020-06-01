@@ -1,6 +1,19 @@
 ---
-ogtype:  website
-eleventyExcludeFromCollections: true
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - nav
+    - post
+    - posts
+    - tagList
+    - draft
+  addAllPagesToCollections: true
+renderData:
+  title: Tagged “{{ tag }}”
+permalink: /tag/{{ tag }}/
 ---
 
 {% layout "base" %}
@@ -11,8 +24,9 @@ eleventyExcludeFromCollections: true
 {% endblock %}
 
 {% block main %}
+  <h1><span>Tagged</span> <span class="tag {{tag}}">{{tag}}</span></h1>
   <ul>
-  {% for a in collections.articles reversed %}
+  {% for a in collections[tag] reversed %}
     <li>
       <a href={{a.url}}>
         <h2>{{a.data.title}}</h2>

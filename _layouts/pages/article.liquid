@@ -15,6 +15,9 @@
   <main>
     <h1>{{title}}</h1>
     {{ tags | tagList }}
+    {% if cover %}
+      <img class="cover" src="{{cover}}" alt="{{coverAlt}}" />
+    {% endif %}
     {% comment %} {% listTags tags=test %} {% endcomment %}
     {% comment %} {% tags tags %} {% endcomment %}
     {{content | articleContent }}

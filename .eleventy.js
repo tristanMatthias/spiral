@@ -5,9 +5,15 @@ const articleContent = require('./filters/articleContent');
 
 module.exports = function (eleventyConfig) {
   // Filter source file names using a glob
+
   eleventyConfig.addCollection("articles", function (collectionApi) {
-    return collectionApi.getFilteredByGlob("articles/**/*.md");
+    const files =  collectionApi.getFilteredByGlob("articles/**/*.md");
+    return files.filter(a => !a.data.tags.includes('draft'));
   });
+
+  ["intro", "beginner"].forEach(t =>
+    eleventyConfig.addCollection(t, collectionApi => collectionApi.getFilteredByTag(t) )
+  )
 
   let liquidJs = require("liquidjs");
   let options = {
@@ -35,6 +41,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("tagList", tagList);
   eleventyConfig.addFilter("articleContent", articleContent);
+  eleventyConfig.addFilter("json", v => JSON.stringify(v[0].url));
 
 
   return {

@@ -20,6 +20,16 @@
     margin-top: 1rem;
   }
 
+  &.beige { background-color: var(--color-beige); }
+  &.purple { background-color: var(--color-purple); }
+  &.red { background-color: var(--color-red); }
+  &.blue { background-color: var(--color-blue); }
+  &.orange { background-color: var(--color-orange); }
+  &.green { background-color: var(--color-green); }
+  &.yellow { background-color: var(--color-yellow); }
+  &.turquoise { background-color: var(--color-turquoise); }
+  &.coral { background-color: var(--color-coral); }
+
   &.intro {
     background-color: var(--color-intro);
     &::before { content: '👋 ' }

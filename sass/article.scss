@@ -21,6 +21,13 @@ p {
 main {
   margin-bottom: 16rem;
 
+  // img.cover {
+  //   margin-top: -16rem;
+  //   margin-bottom: 8rem;
+  //   border-top-left-radius: 0;
+  //   border-top-right-radius: 0;
+  // }
+
   img {
     width: calc(100% + 6rem);
     margin-left: -3rem;
@@ -66,5 +73,23 @@ footer {
       margin-top: 1rem;
       margin-bottom: 0;
     }
+  }
+}
+
+
+.disclaimer {
+  font-style: italic;
+  margin-left: -3rem;
+  margin-right: -3rem;
+  padding: 3rem 6rem;
+  background: var(--color-hover-bg);
+  margin-bottom: 3rem;
+
+  h2,h3,h4 {
+    margin-top: 0;
+  }
+
+  > *:last-child {
+    margin-bottom: 0;
   }
 }
