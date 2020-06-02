@@ -26,6 +26,7 @@
   --color-intro: #615858;
   --color-beginner: #216844;
 
+  --color-input-border: #{rgba(#242427, 0.2)};
   --color-hover-bg: #{rgba(#242427, 0.05)};
   --wrapper-width: 60rem;
   --aside-gap: 10rem;
@@ -60,4 +61,28 @@ body {
   max-width: var(--wrapper-width);
   margin: auto;
   margin-top: 8rem;
+}
+
+
+button {
+  font-family: 'Crimson Text', serif;
+  height: 4rem;
+  line-height: 4rem;
+  background-color: var(--color-red);
+  color: white;
+  border: none;
+  border-radius: var(--border-radius);
+  font-size: 2.4rem;
+  padding: 0 2rem;
+  font-weight: bold;
+}
+
+input {
+  font-family: 'Crimson Text', serif;
+  height: 4rem;
+  background: transparent;
+  text-align: center;
+  border: 2px solid var(--color-input-border);
+  border-radius: var(--border-radius);
+  font-size: 1.8rem;
 }
