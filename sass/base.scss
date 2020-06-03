@@ -43,13 +43,15 @@ html {
   @media (min-width: 720px) { font-size: 9px; }
   @media (min-width: 1024px) { font-size: 10px; }
   background-color: var(--color-bg);
-  color: var(--color-primary);
+  --color-text: var(--color-primary);
+  color: var(--color-text);
   transition: all 0.2s;
 
   &.night {
     background-color: #242427;
-    color: var(--color-bg);
+    --color-text: var(--color-bg);
     --color-hover-bg: #{rgba(#e9e5e5, 0.05)};
+    --color-input-border: #{rgba(#e9e5e5, 0.2)};
   }
 }
 
