@@ -1,10 +1,10 @@
 ---
 title: Beginning in Beige
-date: 2020-06-01
+written: 2020-06-01
+date: 2020-06-03
 tags:
   - beginner
   - beige
-  - draft
 cover: cover.jpg
 coverAlt: Survival
 ---
