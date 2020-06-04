@@ -1,0 +1,14 @@
+<aside>
+  <a href="/" class="logo">
+    {% include "logo" %}
+  </a>
+
+  <nav>
+    {% for item in sidebar %}
+      <a href="{{ item.link }}" class="{% if item.link == page.url %}active{%endif%}">
+        {{ item.emoji }}
+        <span>{{ item.text }}</span>
+      </a>
+    {% endfor %}
+  </nav>
+</aside>

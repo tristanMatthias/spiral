@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400&display=swap');
 @import 'reset';
 @import 'type';
-@import 'aside';
+@import 'sidebar';
 @import 'tags';
 @import 'color';
 @import 'night-toggle';
@@ -31,8 +31,8 @@
   --color-input-border: #{rgba(#242427, 0.2)};
   --color-hover-bg: #{rgba(#242427, 0.05)};
   --wrapper-width: 60rem;
-  --aside-gap: 10rem;
-  --aside-width: 20rem;
+  --sidebar-gap: 10rem;
+  --sidebar-width: 20rem;
   --border-radius: 4px
 }
 
