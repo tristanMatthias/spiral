@@ -67,6 +67,48 @@ body {
   margin-top: 8rem;
 }
 
+main {
+  margin-bottom: 16rem;
+
+  h1 {
+    text-align: center;
+  }
+  h2, h3, h4, h5, h6 {
+    text-align: center;
+    margin-bottom: 3rem;
+    margin-top: 6rem;
+  }
+
+  img {
+    width: calc(100% + 6rem);
+    margin-left: -3rem;
+    margin-right: -3rem;
+    border-radius: var(--border-radius);
+
+    & + em {
+      display: block;
+      text-align: center;
+    }
+  }
+
+  ul {
+    list-style: disc;
+    margin-left: 2rem;
+    margin-bottom: 3rem;
+    li {
+      margin-bottom: 1rem;
+    }
+  }
+
+  hr {
+    height: 2px;
+    background-color: var(--color-hover-bg);
+    border: 0;
+    margin: 8rem 0;
+  }
+}
+
+
 
 button {
   font-family: 'Crimson Text', serif;

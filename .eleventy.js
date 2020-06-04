@@ -1,10 +1,13 @@
-const excerpt = require('./plugins/excerpt');
-const tagList = require('./shortcodes/tagList');
-const articleContent = require('./filters/articleContent');
+const excerpt = require('./_plugins/excerpt');
+const tagList = require('./_shortcodes/tagList');
+const htmlMetaCodes = require('./_shortcodes/seo');
+const articleContent = require('./_filters/articleContent');
 
 
 module.exports = function (eleventyConfig) {
   // Filter source file names using a glob
+
+  eleventyConfig.addCollection("pages");
 
   eleventyConfig.addCollection("articles", function (collectionApi) {
     const files =  collectionApi.getFilteredByGlob("articles/**/*.md");
@@ -20,7 +23,7 @@ module.exports = function (eleventyConfig) {
     extname: ".liquid",
     dynamicPartials: true,
     strict_filters: true,
-    root: ["_layouts"]
+    root: ["layouts"]
   };
 
   eleventyConfig.setLibrary("liquid", liquidJs(options));
@@ -29,8 +32,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./articles/**/*.png");
   eleventyConfig.addPassthroughCopy("./articles/**/*.gif");
   eleventyConfig.addPlugin(excerpt);
-
-  const htmlMetaCodes = require('./shortcodes/seo');
 
   eleventyConfig.addShortcode('canonical', htmlMetaCodes.canonical);
   eleventyConfig.addShortcode('metaTitle', htmlMetaCodes.metaTitle);

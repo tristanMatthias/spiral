@@ -9,6 +9,11 @@
   {% comment %} {% seo "" %} {% endcomment %}
 
   {% block css %} {% endblock %}
+  {% if css %}
+    {% for link in css %}
+      <link rel="stylesheet" href="{{link}}">
+    {% endfor %}
+  {% endif %}
 
 </head>
 <body>
