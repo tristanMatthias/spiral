@@ -2,6 +2,7 @@ const excerpt = require('./_plugins/excerpt');
 const tagList = require('./_shortcodes/tagList');
 const htmlMetaCodes = require('./_shortcodes/seo');
 const articleContent = require('./_filters/articleContent');
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 
 module.exports = function (eleventyConfig) {
@@ -44,6 +45,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("articleContent", articleContent);
   eleventyConfig.addFilter("json", v => JSON.stringify(v[0].url));
 
+  eleventyConfig.addPlugin(pluginRss);
 
   return {
     dir: {
