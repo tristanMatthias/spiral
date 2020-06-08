@@ -11,12 +11,14 @@ eleventyExcludeFromCollections: true
 {% endblock %}
 
 {% block main %}
+  <h1>A Matter of Perspective</h1>
+  <h2>We explore practical applications of Spiral Dynamics & other "psycho-technologies" to improve our lives, relationships, & perspectives.</h2>
 
   <ul>
   {% for a in collections.articles reversed %}
     <li>
       <a href={{a.url}}>
-        <h2>{{a.data.title}}</h2>
+        <h3>{{a.data.title}}</h3>
         <small>{%- excerpt a -%}</small>
       </a>
       <div>
