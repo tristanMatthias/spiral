@@ -28,11 +28,15 @@ module.exports = function (eleventyConfig) {
     root: ["layouts"]
   };
 
+
+  eleventyConfig.setTemplateFormats(['txt', 'md', 'json', 'liquid', 'njk']);
+
   eleventyConfig.setLibrary("liquid", liquidJs(options));
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("./articles/**/*.jpg");
   eleventyConfig.addPassthroughCopy("./articles/**/*.png");
   eleventyConfig.addPassthroughCopy("./articles/**/*.gif");
+  // eleventyConfig. ("./pages/*.txt");
   eleventyConfig.addPlugin(excerpt);
 
   eleventyConfig.addShortcode('canonical', htmlMetaCodes.canonical);
