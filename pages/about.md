@@ -1,9 +1,10 @@
 ---
+eleventyExcludeFromCollections: true
 layout: about
 permalink: /about/index.html
 title: About Us
-css:
-  - /about.css
+# css:
+#   - /about.css
 ---
 
 ## What is this site?

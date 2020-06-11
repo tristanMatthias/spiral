@@ -1,9 +1,9 @@
 ---
 title: The Individual & The Collective
-date: 2020-06-03
+written: 2020-06-03
+date: 2020-06-10
 tags:
   - intermediate
-  - draft
 cover: pendulum.jpg
 coverAlt: The Great Pendulum
 ---

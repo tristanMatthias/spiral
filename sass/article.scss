@@ -22,7 +22,7 @@ footer {
 }
 
 
-.disclaimer {
+.disclaimer, .toc {
   font-style: italic;
   margin-left: -3rem;
   margin-right: -3rem;
@@ -37,4 +37,15 @@ footer {
   > *:last-child {
     margin-bottom: 0;
   }
+
+  img + & {
+    margin-top: 4rem;
+  }
+}
+
+.toc {
+  border-left: 4px solid var(--color-yellow);
+  border-radius: var(--border-radius);
+  background: var(--color-yellow-bg);
+  line-height: 1.5;
 }

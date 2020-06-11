@@ -14,19 +14,19 @@ eleventyExcludeFromCollections: true
   <h1>A Matter of Perspective</h1>
   <h2>We explore practical applications of Spiral Dynamics & other "psycho-technologies" to improve our lives, relationships, & perspectives.</h2>
 
-  <ul>
-  {% for a in collections.articles reversed %}
-    <li>
-      <a href={{a.url}}>
-        <h3>{{a.data.title}}</h3>
-        <small>{%- excerpt a -%}</small>
-      </a>
-      <div>
-        <time>{{a.date | date: "%b %d, %Y" }}</time>
-        {{ a.data.tags | tagList }}
-      </div>
-    </li>
-  {% endfor %}
+  <ul class="article-list">
+    {% for a in collections.articles %}
+      <li>
+        <a href="{{a.url}}" title="{{a.data.title}}">
+          <h3>{{a.data.title}}</h3>
+          <small>{%- excerpt a -%}</small>
+        </a>
+        <div>
+          <time>{{a.date | date: "%b %d, %Y" }}</time>
+          {{ a.data.tags | tagList }}
+        </div>
+      </li>
+    {% endfor %}
   </ul>
 
   <script type="text/javascript" src="https://cdn.sender.net/webforms/12720/e4288fc2.js?v=1"></script>

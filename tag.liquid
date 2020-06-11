@@ -10,33 +10,31 @@ pagination:
     - posts
     - tagList
     - draft
-  addAllPagesToCollections: true
 renderData:
   title: Tagged “{{ tag }}”
 permalink: /tag/{{ tag }}/
+css:
+  - /index.css
 ---
 
 {% layout "base" %}
 
 
-{% block css %}
-  <link rel="stylesheet" href="/index.css" />
-{% endblock %}
-
 {% block main %}
-  <h1><span>Tagged</span> <span class="tag {{tag}}">{{tag}}</span></h1>
-  <ul>
-  {% for a in collections[tag] reversed %}
-    <li>
-      <a href={{a.url}}>
-        <h2>{{a.data.title}}</h2>
-        <small>{%- excerpt a -%}</small>
-      </a>
-      <div>
-        <time>{{a.date | date: "%b %d, %Y" }}</time>
-        {{ a.data.tags | tagList }}
-      </div>
-    </li>
-  {% endfor %}
+  <h1><span style="font-size: 2.4rem;">Tagged</span> <span class="tag {{tag}}">{{tag}}</span></h1>
+
+  <ul class="article-list">
+    {% for a in collections[tag] reversed %}
+      <li>
+        <a href={{a.url}}>
+          <h3>{{a.data.title}}</h3>
+          <small>{%- excerpt a -%}</small>
+        </a>
+        <div>
+          <time>{{a.date | date: "%b %d, %Y" }}</time>
+          {{ a.data.tags | tagList }}
+        </div>
+      </li>
+    {% endfor %}
   </ul>
 {% endblock %}

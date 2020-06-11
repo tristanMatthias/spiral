@@ -1,7 +1,9 @@
 ---
+eleventyExcludeFromCollections: true
 date: 2020-06-03
 tags:
   - draft
+layout: stub
 ---
 ## Coming together (Beige -> Purple)
 Let’s look at the most basic example of this shift; Transitioning from Beige (I/Individual) to Purple (Us/Collective). How did we solve the base problem of survival in Beige? A state where all you ever think about is your own experience, and how you and the very few around you will survive another day (very “I”). We banded together into larger and larger groups of people to form tribes. Full of other people that will look out for you. You were finally safe (very “We”).

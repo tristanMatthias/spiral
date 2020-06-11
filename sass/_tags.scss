@@ -30,13 +30,17 @@
   &.turquoise { background-color: var(--color-turquoise); }
   &.coral { background-color: var(--color-coral); }
 
+  &.draft { background-color: var(--color-red); }
   &.intro {
     background-color: var(--color-intro);
     &::before { content: '👋 ' }
   }
-  &.draft { background-color: var(--color-red); }
   &.beginner {
     background-color: var(--color-beginner);
     &::before { content: '🌱 ' }
+  }
+  &.intermediate {
+    background-color: var(--color-intermediate);
+    &::before { content: '😎 ' }
   }
 }
