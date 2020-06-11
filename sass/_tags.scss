@@ -43,4 +43,12 @@
     background-color: var(--color-intermediate);
     &::before { content: '😎 ' }
   }
+  &.i {
+    background-color: var(--color-i);
+    &::before { content: '🙋🏼‍♂️ ' }
+  }
+  &.we {
+    background-color: var(--color-we);
+    &::before { content: '🤗 ' }
+  }
 }

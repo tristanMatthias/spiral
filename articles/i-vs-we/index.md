@@ -4,6 +4,8 @@ written: 2020-06-03
 date: 2020-06-10
 tags:
   - intermediate
+  - i
+  - we
 cover: pendulum.jpg
 coverAlt: The Great Pendulum
 ---
