@@ -23,7 +23,7 @@ aside {
 
   nav {
     display: none;
-    margin-top: 4rem;
+    margin: 4rem 0;
     a {
       display: block;
       font-size: 1.8rem;
@@ -34,6 +34,10 @@ aside {
         font-weight: bold;
       }
     }
+  }
+
+  a svg {
+    height: 2rem;
   }
 
   @media (min-width: 1024px) {
