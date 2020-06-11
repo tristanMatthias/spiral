@@ -49,3 +49,12 @@ footer {
   background: var(--color-yellow-bg);
   line-height: 1.5;
 }
+
+
+main > p:first-of-type:first-letter {
+  font-size: 3.6em;
+  float: left;
+  line-height: 4;
+  margin-right: 1rem;
+  margin-top: 1.2rem;
+}
