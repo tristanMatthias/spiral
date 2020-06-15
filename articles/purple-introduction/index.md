@@ -94,6 +94,9 @@ For many of us, the “lowest hanging fruits” to living a happier, more joyful
 
 ## Discover what Purple means to you
 
+![Campfire](campfire.jpg)
+*Photo by Ethan Hu @ethanhjy*
+
 If you’re looking to explore this side of yourself, your family, and your community, take some time to find your Purple Rituals. You’ll know them from memory; each Purple does it differently. For some, it’s a weekend trip to the woods, swapping stories around a campfire. For others, it’s curling up on the couch with a loved one (or alone!) and watching your favorite film of which you know ALL the words. Maybe it’s going for a long walk along the beach, or taking a bath, or cooking the recipe your grandmother gave to you on her deathbed (RIP grandma, your carrot cake legacy lives on in us).
 
 The vital aspect of all these is that they share the same *intention*; they help us belong and feel safe. They connect us, bringing us closer to ourselves and others.
