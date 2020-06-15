@@ -44,7 +44,7 @@ blockquote {
   background: var(--color-hover-bg);
   padding: 2rem 3rem;
   margin: 0 -3rem 3rem -2rem;
-  border-left: 4px solid var(--color-primary);
+  border-left: 4px solid currentColor;
   border-radius: var(--border-radius);
 
   p:last-child { margin: 0; }

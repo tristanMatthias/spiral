@@ -12,7 +12,7 @@ seo:
   description: Tribes, self-esteem, campfires; let's take a dive into how this magical perspective underpins so much of what we know and love in life.
 ---
 
-<div class="disclaimer">
+<div class="toc">
 
 Purple represents the “second stage” of human existence. If you’re new to Spiral, please first read:
 - [What is Spiral Dynamics](https://spirals.blog/articles/what-is-spiral-dynamics/)
