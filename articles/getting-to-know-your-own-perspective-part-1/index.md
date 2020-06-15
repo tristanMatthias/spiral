@@ -1,11 +1,9 @@
 ---
-eleventyExcludeFromCollections: true
 title: Getting to know your own perspective - Part 1
 written: 2020-06-11
-date: 2020-06-17
+date: 2020-06-14
 tags:
   - intermediate
-  - draft
 cover: reflection.jpg
 coverAlt: Reflection
 ---
