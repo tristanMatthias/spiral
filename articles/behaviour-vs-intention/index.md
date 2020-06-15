@@ -3,6 +3,8 @@ title: Behavior ≠ Intention
 date: 2020-05-26
 tags:
   - beginner
+seo:
+  description: Can you remember a time when someone you knew (a friend, a lover, a boss, etc.) was doing something you just didn’t understand?
 ---
 
 ## Are colors things people “do”?

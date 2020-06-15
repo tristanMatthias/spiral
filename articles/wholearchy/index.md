@@ -3,6 +3,8 @@ title: Wholearchy over Hierarchy
 date: 2020-05-27
 tags:
   - beginner
+seo:
+  description: Is a “higher perspective” really better? Join us in unpacking some important concepts around ego and “higher states”.
 ---
 
 ## Is “higher” really “better”?

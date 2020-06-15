@@ -7,6 +7,8 @@ tags:
   - beige
 cover: cover.jpg
 coverAlt: Survival
+seo:
+  description: We begin to unfold the language of Spiral Dynamics by introducing the first color; beige, and how it maps to human history.
 ---
 
 ## What is consciousness?

@@ -6,6 +6,8 @@ tags:
   - intermediate
 cover: reflection.jpg
 coverAlt: Reflection
+seo:
+  description: Identifying who, and where you are on your journey can be difficult. With some useful tools, let's explore how we can begin our quest to self-discovery.
 ---
 
 <div class="toc">

@@ -2,12 +2,14 @@
 eleventyExcludeFromCollections: true
 title: Progressing to Purple - An Introduction
 written: 2020-06-11
-date: 2020-06-14
+date: 2020-06-17
 tags:
   - beginner
   - purple
 cover: family.jpg
 coverAlt: Family
+seo:
+  description: Tribes, self-esteem, campfires; let's take a dive into how this magical perspective underpins so much of what we know and love in life.
 ---
 
 <div class="disclaimer">

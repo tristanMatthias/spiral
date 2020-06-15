@@ -3,8 +3,9 @@ eleventyExcludeFromCollections: true
 layout: about
 permalink: /about/index.html
 title: About Us
-# css:
-#   - /about.css
+seo:
+  description: What is “A Matter of Perspective”? A place to explore useful &amp; practical ways of improving our lives.
+
 ---
 
 ## What is this site?

@@ -1,9 +1,11 @@
-{% metaImage seo.image, defaultSeo.image %}
+{% assign metaImageUrl = page.url | append: 'meta-image.jpg' %}
+{% metaImage metaImageUrl %}
 {% metaTitle title, defaultSeo.title %}
 {% canonical page.url %}
-{% metaDescription seo.author, defaultSeo.description %}
+{% metaDescription seo.description, defaultSeo.description %}
 {% metaAuthor seo.author, defaultSeo.author %}
 {% twitter seo.twitter, defaultSeo.twitter %}
+
 <meta property="og:site_name" content="A Matter of Perpective" />
 <meta name="robots" content="index,follow">
 <meta property="og:type" content="article">

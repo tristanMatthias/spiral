@@ -8,6 +8,8 @@ tags:
   - we
 cover: pendulum.jpg
 coverAlt: The Great Pendulum
+seo:
+  description: A great pendulum swings between self-expression and self-sacrifice. How does the oscillation of the Spiral and it's affect you and I?
 ---
 
 ## The Great Pendulum
