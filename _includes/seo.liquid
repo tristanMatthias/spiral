@@ -1,4 +1,9 @@
-{% assign metaImageUrl = page.url | append: 'meta-image.jpg' %}
+{% if seo.image %}
+    {% assign metaImageUrl = seo.image %}
+{% else %}
+  {% assign metaImageUrl = page.url | append: 'meta-image.jpg' %}
+{% endif %}
+
 {% metaImage metaImageUrl %}
 {% metaTitle title, defaultSeo.title %}
 {% canonical page.url %}
