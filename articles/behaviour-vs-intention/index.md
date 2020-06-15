@@ -14,11 +14,11 @@ In this case, it was an example of “Blue protecting Low Purple”. Perhaps you
 
 ## Intention
 
-One could look at this situation and think that these behaviors were *obviously* coming Blue because they were so focused on “routines” and “work”. But we’d made a mistake that many beginners starting in Spiral do; we forgot to ask, ** “What’s the intention of the behavior?”**
+One could look at this situation and think that these behaviors were *obviously* coming Blue because they were so focused on “routines” and “work”. But we’d made a mistake that many beginners starting in Spiral do; we forgot to ask, **“What’s the intention of the behavior?”**
 
 The above is only one example of the thousands we make every day. We assume or judge an event in the external world as “this” or “that.” In actuality, they’re a cocktail of hundreds of competing intentions, values, beliefs, etc. Unless we’ve studied for many years (and this is also arguable), it would be nigh impossible for us to know precisely what the real source is.
 
-By asking the question, * “What’s the intention?”* We dig a little deeper into ourselves or the subject, prying further down the rabbit hole towards the truth. This question provides a useful way to learn more; however, it’s not the only tool we have.
+By asking the question, *“What’s the intention?”* We dig a little deeper into ourselves or the subject, prying further down the rabbit hole towards the truth. This question provides a useful way to learn more; however, it’s not the only tool we have.
 
 ## Time
 The safest way to gauge an intention is to observe it over time. The longer we study and read situations, the more nuanced our perspective of the situation becomes. Time can be a manual safety rail for you if, for example, you agree to yourself that you’ll only make a “decision” on the subject after at least six months. I once knew a man who would wait seven years getting to know someone before they would go into business with them! By implementing this principle, we can mitigate risk in situations that may be unclear to decipher.
@@ -39,7 +39,7 @@ Knowledge of these deeper truths and intentions can massively impact better deci
 ## Turning caution into curiosity
 ![Love](connection.jpg)
 
-When I personally first learned of these dangers, I grew wary of judging too quickly, becoming almost indecisive about the world and people. Focusing instead on * “why”* things were happening, and building a deep sense of wonder for human nature, turned this caution into something that enabled me to engage more deeply with others.
+When I personally first learned of these dangers, I grew wary of judging too quickly, becoming almost indecisive about the world and people. Focusing instead on *“why”* things were happening, and building a deep sense of wonder for human nature, turned this caution into something that enabled me to engage more deeply with others.
 
 > “The important thing is not to stop questioning. Curiosity has its own reason for existence. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality. It is enough if one tries merely to comprehend a little of this mystery each day.
 >
