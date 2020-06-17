@@ -60,7 +60,6 @@ Purple is all around us. The family dinners, telling your partner you love them,
 - Looking out for your friends when they’re in trouble.
 - “Hey, want some of my ice-cream?” (As hard as it can sometimes be)
 
-> Insert quotes here
 
 In Healthy Purple, this *all* comes from a place of genuinely wanting the best for that person/group/business. They belong to your tribe. The more you look after them, the more they’ll look after you. When we begin to throw other colors/perspectives into the mix, this get’s more complicated, but for now, let’s just stick with Purple.
 
@@ -100,7 +99,11 @@ For many of us, the “lowest hanging fruits” to living a happier, more joyful
 
 If you’re looking to explore this side of yourself, your family, and your community, take some time to find your Purple Rituals. You’ll know them from memory; each Purple does it differently. For some, it’s a weekend trip to the woods, swapping stories around a campfire. For others, it’s curling up on the couch with a loved one (or alone!) and watching your favorite film of which you know ALL the words. Maybe it’s going for a long walk along the beach, or taking a bath, or cooking the recipe your grandmother gave to you on her deathbed (RIP grandma, your carrot cake legacy lives on in us).
 
-The vital aspect of all these is that they share the same *intention*; they help us belong and feel safe. They connect us, bringing us closer to ourselves and others.
+The vital aspect of all these is that they share the same *intention*; they help us belong and feel safe. They connect us, bringing us closer to ourselves and others. Until this becomes a problem...
+
+### Leaving Purple
+
+The safety of the tribe may start to feel limiting for some. There are those who seek to explore and see beyond the limits of where everyone they know exists. In another article, we'll look into how Red takes a stand. Setting out on a new adventure that would change the course of human history for our ancestors, and exploring our own identities, Red takes the Spiral to a whole new place.
 
 <div class="disclaimer">
 
