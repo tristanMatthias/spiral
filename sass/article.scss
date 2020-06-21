@@ -58,3 +58,9 @@ main > p:first-of-type:first-letter {
   margin-right: 1rem;
   margin-top: 1.2rem;
 }
+
+main {
+  li {
+    line-height: 1.6;
+  }
+}

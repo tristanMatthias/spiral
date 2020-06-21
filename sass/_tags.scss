@@ -51,4 +51,8 @@
     background-color: var(--color-we);
     &::before { content: '🤗 ' }
   }
+  &.practical {
+    background-color: var(--color-practical);
+    &::before { content: '🏃🏻‍♀️ ' }
+  }
 }
