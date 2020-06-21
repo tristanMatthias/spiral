@@ -5,7 +5,7 @@ date: 2020-06-21
 tags:
   - intermediate
   - practical
-cover: cover.jpg
+cover: meta-image.jpg
 coverAlt: Viking in the city
 seo:
   description: There are two worlds for all of us. The one inside, and the one we live in. Sometimes they agree, and sometimes they don't…
