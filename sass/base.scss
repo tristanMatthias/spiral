@@ -11,8 +11,12 @@
 * { box-sizing: border-box; }
 
 :root {
-  --color-primary: #242427;
-  --color-bg: #e9e5e5;
+
+  --color-white: #e9e5e5;
+  --color-black: #242427;
+  --color-bg: var(--color-white);
+  --color-primary: var(--color-black);
+
 
   --color-beige: #aa856d;
   --color-purple: #a231ff;
@@ -47,13 +51,26 @@ html {
   @media (min-width: 720px) { font-size: 9px; }
   @media (min-width: 1024px) { font-size: 10px; }
   background-color: var(--color-bg);
-  --color-text: var(--color-primary);
-  color: var(--color-text);
   transition: all 0.2s;
 
+  &:after {
+      content: '';
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background-color: var(--color-primary);
+      height: 0.5rem;
+      opacity:0;
+      z-index: 10;
+      animation: slide 0.7s ease-out forwards;
+    }
+
   &.night {
-    background-color: #242427;
-    --color-text: var(--color-bg);
+    --color-primary: var(--color-white);
+    --color-bg: var(--color-black);
+
+    // --color-text: var(--color-bg);
     --color-hover-bg: #{rgba(#e9e5e5, 0.05)};
     --color-input-border: #{rgba(#e9e5e5, 0.2)};
   }
@@ -63,6 +80,8 @@ body {
   font-size: 2.4rem;
   padding: 4rem;
   padding-bottom: 0;
+  --color-text: var(--color-primary);
+  color: var(--color-text);
 }
 
 .wrapper {
@@ -135,4 +154,48 @@ input {
   border: 2px solid var(--color-input-border);
   border-radius: var(--border-radius);
   font-size: 1.8rem;
+}
+
+
+
+
+@each $color in (
+  'beige',
+  'purple',
+  'red',
+  'blue',
+  'orange',
+  'green',
+  'yellow',
+  'yellow-bg',
+  'turquoise',
+  'coral',
+) {
+  html.#{$color} {
+    &:before {
+      content: '';
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: var(--color-#{$color});
+      opacity: 0;
+      z-index: -1;
+      animation: fade 1s ease-out forwards;
+    }
+
+    &:after {
+      background-color: var(--color-#{$color});
+    }
+  }
+}
+
+@keyframes slide {
+  from {opacity: 0; width: 0;}
+  to {opacity: 1; width: 100%;}
+}
+@keyframes fade {
+  from {opacity: 0 }
+  to {opacity: 0.1 }
 }

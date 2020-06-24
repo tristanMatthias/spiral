@@ -11,9 +11,7 @@
 
   <script>
     const inp = document.getElementById('night-mode');
-    const initial = localStorage.getItem('night') === 'true';
-    inp.checked = initial;
-    document.documentElement.classList.toggle('night', initial);
+    inp.checked = initialNight;
 
     inp.onchange = function() {
       document.documentElement.classList.toggle('night');

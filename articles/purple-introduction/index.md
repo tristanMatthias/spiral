@@ -10,6 +10,8 @@ cover: family.jpg
 coverAlt: Family
 seo:
   description: Tribes, self-esteem, campfires; let's take a dive into how this magical perspective underpins so much of what we know and love in life.
+htmlClass: purple
+
 ---
 
 <div class="toc">

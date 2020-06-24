@@ -1,8 +1,19 @@
 <!DOCTYPE html>
+{% if htmlClass %}
+  <html class="{{htmlClass}}" lang="en">
+{% else %}
+  <html lang="en">
+{% endif %}
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script>
+    const initialNight = localStorage.getItem('night') === 'true';
+    document.documentElement.classList.toggle('night', initialNight);
+  </script>
+
   <link rel="stylesheet" href="/base.css">
 
   {% include "./seo.liquid" %}
