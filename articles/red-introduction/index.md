@@ -17,10 +17,11 @@ htmlClass: red
 
 <div class="toc">
 
-Red represents the third stage” of human existence. If you’re new to Spiral, please first read:
+Red represents the “third stage” of human existence. If you’re new to Spiral, please first read:
 - [What is Spiral Dynamics](https://spirals.blog/articles/what-is-spiral-dynamics/)
 - [Beginning in Beige](https://spirals.blog/articles/beige-introduction/)
 - [Progressing to Purple](https://spirals.blog/articles/purple-introduction/)
+
 This article will provide the necessary context for some of the concepts here.
 
 Enjoy!
@@ -40,13 +41,15 @@ Red is often abrupt and doesn’t want to say more than it has to. To the point 
 
 
 <div class="dramatic-break"></div>
-<p style="text-align: center;">It also likes to joke.</p>
+<p style="text-align: center;">Red also likes to joke.</p>
 <div class="dramatic-break"></div>
 
 
-I’ll stop before I lose those who aren’t resonating. Red can be intense for some and rightly so. If we’re still growing in Red as an individual, it can be very intimidating to experience Red’s energy, *especially if you’re the focus*. **Especially if it’s unhealthy**
+I’ll stop before I lose those who aren’t resonating. Red can be intense for some and rightly so. If we’re still growing in Red as an individual, it can be very intimidating to experience Red’s energy, *especially if you’re the focus*.
 
-Let’s go back to Purple for a second. Where did all this come from? I thought we were still singing “Koomboya”…
+**Especially if it’s unhealthy**.
+
+Let’s go back to Purple for a second. Where did all this come from? I thought we were still singing “Kumbaya”…
 
 ## The World Outside (Of Purple)
 
@@ -63,7 +66,7 @@ But, as we find out, it’s not *all* bad. In fact, it gives us individually a c
 
 ## Curiosity ~~killed the cat 🐈~~ made the Red
 
-In Purple, we often live in fear of the outside world, as it regularly meant death if we were alone. When we enter Red, we re-address our Agent/Arena relationship yet again, redefining our understanding of where we sit in the grand scheme of things.
+In Purple, we often live in fear of the outside world, as it regularly meant death if we were alone. When we enter Red, we re-address our [Agent/Arena relationship](https://spirals.blog/articles/internal-external/) yet again, redefining our understanding of where we sit in the grand scheme of things.
 
 Whether driven by boredom, a growing sense of frustration that the Shaman’s rain dances are not working (Duh!), or sheer curiosity; *some Purples* step outside the “Purple Circle” to seek their **own** quests.
 
@@ -133,10 +136,17 @@ We can start to see, now, the relationships forming between these colors, and ho
 
 In these situations, Red regularly tries to “protect” Purple. It forms a defensive barrier around the Self, so it doesn’t get hurt again. Often, a past/childhood trauma (when Purple couldn’t stand up for itself) forms an internal or collective strategy to ensure that *never* happens again. This results in the Purple never being exposed or vulnerable, an overactive, assertive Red energy, and a whole lot of issues.
 
-Partner: “Hey. So, I’ve been thinking about us a lot…and…I think I love you.”
-Low Purple/Red: “What? No, you don’t! Don’t say shit like that”
-Partner: “No, really! I do! You mean a lot to me.”
-Low Purple/Red: “I don’t need this in my life. I’ve been hurt before, and you’ll just hurt me too. Goodbye”
+---
+
+**Partner:** “Hey. So, I’ve been thinking about us a lot…and…I think I love you.”
+
+**Low Purple/Red:** “What? No, you don’t! Don’t say shit like that”
+
+**Partner:** “No, really! I do! You mean a lot to me.”
+
+**Low Purple/Red:** “I don’t need this in my life. I’ve been hurt before, and you’ll just hurt me too. Goodbye”
+
+---
 
 Ever been part of, or heard, a conversation like this? There’s a lot to unpack here, but the short of it is: Red tries to protect a wounded Purple, never letting itself heal, and becoming aggressive to anyone who gets close enough to try.
 
@@ -180,7 +190,7 @@ Red is not all bad – in fact, it’s critical (as many colors are) for operat
 
 *“Hey, so, I saw you from the other side of the room – annnnnd I’ll be honest, you really caught my eye. Can I buy you a drink?”*
 
-Red takes the risk. If we’re still developing our Red, this situation can be incredibly scary. Talking to an attractive member of the opposite sex in a crowded place with everyone watching? What if it went wrong? Oh god, what if they think I’m ugly. Better not.
+Red takes the risk. If we’re still developing our Red, this situation can be incredibly scary. Talking to an attractive stranger in a crowded place with everyone watching? What if it went wrong? Oh god, what if they think I’m ugly. Better not.
 
 Red doesn’t care about what others think, it just acts. When balanced with a healthy Purple, this can empower us to take bold actions to improve our lives and the lives of others. Sometimes we need to go out on a limb to create the life we want. Healthy Red is a **fantastic** tool for this.
 
