@@ -64,3 +64,22 @@ main {
     line-height: 1.6;
   }
 }
+
+
+
+.dramatic-break {
+  height: 100vh;
+  position: relative;
+  margin-bottom: 2rem;
+
+  &:after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 0;
+    height: 100%;
+    width: 1px;
+    border-left: 1px dashed currentColor;
+    opacity: 0.2;
+  }
+}

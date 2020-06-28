@@ -106,7 +106,7 @@ The vital aspect of all these is that they share the same *intention*; they help
 
 ### Leaving Purple
 
-The safety of the tribe may start to feel limiting for some. There are those who seek to explore and see beyond the limits of where everyone they know exists. In another article, we'll look into how Red takes a stand. Setting out on a new adventure that would change the course of human history for our ancestors, and exploring our own identities, Red takes the Spiral to a whole new place.
+The safety of the tribe may start to feel limiting for some. There are those who seek to explore and see beyond the limits of where everyone they know exists. In another article, we'll look into how Red takes a stand. Setting out on a new adventure that would change the course of human history for our ancestors, and exploring our own identities, Red takes the Spiral to a [whole new place](https://spirals.blog/articles/red-introduction/).
 
 <div class="disclaimer">
 
