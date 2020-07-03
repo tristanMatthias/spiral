@@ -4,6 +4,7 @@ written: 2020-06-11
 date: 2020-06-14
 tags:
   - intermediate
+  - practical
 cover: reflection.jpg
 coverAlt: Reflection
 seo:
