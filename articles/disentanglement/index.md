@@ -87,13 +87,17 @@ Ask questions. Hard ones. Deep ones. *Personal* ones. Ones that hurt. Ones that 
 
 > “Why?”
 
-It’s my favorite question. Why? Shutup. “Why” is like a shovel – it digs deeper. *It forces the brain to consider the nature of what we think is the core of something.* Why? Because in order to explain something, you need to know it’s components. And in order to identify the components, you need to “chunk into it”, go further in.
+It’s my favorite question. Why?
+
+Shutup.
+
+“Why” is like a shovel – it digs deeper. *It forces the brain to consider the nature of what we think is the core of something.* Why? Because in order to explain something, you need to know it’s components. And in order to identify the components, you need to “chunk into it”, go further in.
 
 “Why” in the visual context of Disentanglement creates the force to go deeper. It’s your “momentum” if you will. What about direction then?
 
 > “Where is this coming from?”
 
-What are the “things” that make this problem up? If “why?” goes deep, “where from?” then *"goes broad"*.
+What are the “things” that make this problem up? If “why” goes deep, “where from” then *"goes broad"*.
 
 ![Understanding](understanding.png)
 
@@ -126,7 +130,7 @@ Here are some questions/tools to cultivate more acceptance in things:
 - “When did I first decide to believe that?”
 - “Where do I feel this on my body right now? What’s it doing?”
 
-These questions “loose” the tangle, allowing you to accept something (a root cause or belief) or go deeper into it.
+These questions “loosen” the tangle, allowing you to accept something (a root cause or belief) or go deeper into it.
 
 Sometimes you’ll uncover something so powerful it knocks you on your ass. Literally. These might be the “end of the thread” kinda realizations. They can feel incredible, and they can feel terrible. But they’re often very intense. Not always, of course, but often. **It’s the difference between an “Aha!”, and an “Ohhhhhh fuck…”**
 
