@@ -34,6 +34,7 @@ So what do we do about it? We’ve all got these “hairy-scaries”. Can we fix
 
 ## Understanding and acceptance
 I propose we may fix our problems in life by:
+
 1. Understanding ourselves and the world
 2. Accepting ourselves and the world
 
