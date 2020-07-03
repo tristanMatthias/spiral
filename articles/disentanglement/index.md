@@ -30,6 +30,7 @@ So what do we do about it? We’ve all got these “hairy-scaries”. Can we fix
 > When I found I couldn’t change the nation, I began to focus on my town. I couldn’t change the town, and as an older man, I tried to change my family.
 >
 > Now, as an old man, I realize the only thing I can change is myself, and suddenly I realize that if long ago I had changed myself, I could have made an impact on my family. My family and I could have made an impact on our town. Their impact could have changed the nation, and I could indeed have changed the world.
+>
 > Author: Unknown Monk, 1100 A.D.
 
 ## Understanding and acceptance

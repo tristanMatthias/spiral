@@ -123,6 +123,15 @@ main {
     }
   }
 
+  ol {
+    list-style: decimal;
+    margin-left: 2rem;
+    margin-bottom: 3rem;
+    li {
+      margin-bottom: 1rem;
+    }
+  }
+
   hr {
     height: 2px;
     background-color: var(--color-hover-bg);
