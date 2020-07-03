@@ -13,7 +13,7 @@ seo:
 > If you’ll permit me, I’d like to try an experimental approach to writing articles than I’m used to. This is a play on an idea that I’m not entirely sure is correct yet. It’s an opinion, it’s in “beta”, and it could be wrong. Thank you for reading.
 
 
-Think of a problem you have in your life. It could be anything. A turf war at work. Something your partner is doing. Maybe you feel like shit all the fucking time. Perhaps your lonely, or confused about life, or bored with everything, or feel like nobody understands you or one of ALL the other problems we face. That makes you the same as everyone else. That makes you human.
+Think of a problem you have in your life. It could be anything. A turf war at work. Something your partner is doing. Maybe you feel like shit all the fucking time. Perhaps you're lonely, or confused about life, or bored with everything, or feel like nobody understands you or one of ALL the other problems we face. That makes you the same as everyone else. That makes you human.
 
 Just get to the point: [GO TO THE VISUAL 👀](#diagram)
 
@@ -69,7 +69,7 @@ What’s that mean? It means we tell stories that we *think* are true, maybe eve
 - “I feel like shit”
 - "\<insert race here\>’s are just here to take our jobs"
 - “I need more money”
-- “Nobody understand me”
+- “Nobody understands me”
 - “Unless my hair looks EXACTLY like this, random people who I don't know will think I'm ugly and I'll feel terrible for the rest of the day and probably end up crying”
 
 Dude.
