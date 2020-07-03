@@ -5,8 +5,6 @@ written: 2020-07-02
 date: 2020-07-02
 tags:
   - practical
-# cover: pendulum.jpg
-# coverAlt: The Great Pendulum
 seo:
   description: The art of undoing the “knots” of our problems, getting to the root of things, & blissin' the **** out
 ---
