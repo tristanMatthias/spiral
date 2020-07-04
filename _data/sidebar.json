@@ -8,5 +8,10 @@
     "emoji": "❓",
     "text": "About Us",
     "link": "/about/"
+  },
+  {
+    "emoji": "🤣",
+    "text": "Memes",
+    "link": "/memes/"
   }
 ]
