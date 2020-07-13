@@ -51,7 +51,7 @@ footer {
 }
 
 
-main > p:first-of-type:first-letter {
+main > p:first-of-type:first-letter:not(.no-cap) {
   font-size: 3.6em;
   float: left;
   line-height: 4;

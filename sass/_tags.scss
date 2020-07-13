@@ -55,4 +55,8 @@
     background-color: var(--color-practical);
     &::before { content: '🏃🏻‍♀️ ' }
   }
+  &.poem {
+    background-color: var(--color-poem);
+    &::before { content: '📜 ' }
+  }
 }

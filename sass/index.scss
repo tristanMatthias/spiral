@@ -1,6 +1,12 @@
 ul {
   margin-top: -1rem;
   margin-bottom: 4rem;
+  display: flex;
+  flex-direction: column;
+
+  &.flip {
+    flex-direction: column-reverse;
+  }
 }
 
 ul li {
@@ -15,7 +21,8 @@ ul li {
   & > div {
     margin-top: 0.5rem;
     text-align: right;
-    margin-left: 2rem;
+    margin-left: auto;
+    padding-left: 2rem;
     time {
       white-space: nowrap;
       text-transform: uppercase;
@@ -57,4 +64,22 @@ h2 {
   text-align: center;
   margin-bottom: 8rem;
   font-style: italic;
+}
+
+
+#btn-sort {
+  display: block;
+  background: none;
+  color: currentColor;
+  margin-left: auto;
+  margin-bottom: 2rem;
+  opacity: 0.5;
+  cursor: pointer;
+
+  &:hover {
+    opacity: 1;
+  }
+
+  &:after { content: '👇' }
+  &.flip:after { content: '☝️' }
 }

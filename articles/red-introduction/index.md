@@ -233,7 +233,7 @@ So go! Be free! Live! Express, love, cry, fuck, laugh, and have a good time doin
 ## Leaving Red
 Too much Red in your life? Partied enough, or sick of running out of money on your backpacking adventures? Looking to find something a little more stable in your life? Tired of the constant taking and sizing-up of those around you?
 
-Fear not friends. The Spiral does not end here. In the next color, we’ll investigate how Blue helps keep Red in check. A powerful force of justice and truth shall emerge from the madness of Red to save us from sin and chaos alike. Red’s beware! The organized armies of “sacrifice-self” are back, but not like our Purple friends. Blue possess’s something else entirely…
+Fear not friends. The Spiral does not end here. [In the next color](https://spirals.blog/articles/blue-introduction), we’ll investigate how Blue helps keep Red in check. A powerful force of justice and truth shall emerge from the madness of Red to save us from sin and chaos alike. Red’s beware! The organized armies of “sacrifice-self” are back, but not like our Purple friends. Blue possess’s something else entirely…
 
 ![Disapproval](blue.jpg)
 *Photo by Ahmed Carter @ahmedcarter*

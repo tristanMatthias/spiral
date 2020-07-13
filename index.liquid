@@ -16,6 +16,10 @@ seo:
   <h1>A Matter of Perspective</h1>
   <h2>We explore practical applications of Spiral Dynamics & other "psycho-technologies" to improve our lives, relationships, & perspectives.</h2>
 
+  <button id="btn-sort">
+    <span>Sort</span>
+  </button>
+
   <ul class="article-list">
     {% for a in collections.articles %}
       <li>
@@ -30,6 +34,24 @@ seo:
       </li>
     {% endfor %}
   </ul>
+
+  <script>
+    const sortBtn = document.getElementById('btn-sort');
+    const list = document.querySelector('.article-list');
+
+
+    const flip = () => {
+      list.classList.toggle('flip');
+      sortBtn.classList.toggle('flip');
+      localStorage.setItem('sort', list.classList.contains('flip'));
+    }
+
+    if (localStorage.getItem('sort')) flip();
+
+    sortBtn.addEventListener('click', () => {
+      flip();
+    });
+  </script>
 
   <script type="text/javascript" src="https://cdn.sender.net/webforms/12720/e4288fc2.js?v=1"></script>
 
