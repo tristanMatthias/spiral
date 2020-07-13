@@ -59,4 +59,8 @@
     background-color: var(--color-poem);
     &::before { content: '📜 ' }
   }
+  &.meditation {
+    background-color: var(--color-turquoise);
+    &::before { content: '🧘‍♀️ ' }
+  }
 }
