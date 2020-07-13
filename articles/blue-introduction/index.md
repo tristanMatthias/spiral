@@ -15,7 +15,7 @@ htmlClass: blue
 
 <div class="toc">
 
-Blue represents the fourth stage” of human existence. If you’re new to Spiral, please first read:
+Blue represents the “fourth stage” of human existence. If you’re new to Spiral, please first read:
 - [What is Spiral Dynamics](https://spirals.blog/articles/what-is-spiral-dynamics/)
 - [Beginning in Beige](https://spirals.blog/articles/beige-introduction/)
 - [Progressing to Purple](https://spirals.blog/articles/purple-introduction/)
@@ -197,9 +197,9 @@ Compared to Purple, Red, and Purple/Red, Blue wins in building large societies. 
 
 Are they perfect? Blue likes to think so, because what other things have worked this well? They have the one way to live that solves the problems. This is where things can get a little unhealthy. ***A Healthy Blue is an Open Blue.***
 
-Depending on what you believe, the truth is either relative or it is the Truth. I don’t want to get into relativity discussion here, so I will just say that Blue *tends* to think in absolutes.
+Depending on what you believe, the truth is either relative or it is the Truth. I don’t want to get into a relativity discussion here, so I will just say that Blue *tends* to think in absolutes.
 
-Most people would generally agree (hopefully) that murder is a bad thing. Many would say that’s an objective truth. That good and evil are objective truths. Things that actually exist. That reality, the world, and all in it operate in such a fashion — a fathomless philosophical conundrum non-the-less.
+Most people would generally agree (hopefully) that murder is a bad thing. Many would say that’s an objective truth. That good and evil are objective truths. Things that actually exist. That our reality, the world, and all in it operate in such a fashion. A fathomless philosophical conundrum non-the-less.
 
 What about when this extends to things on a more day to day example? You must do this thing that I believe, or you’re a terrible person. I’m sure we all have something like that in one way or another. Interesting isn’t it?
 
