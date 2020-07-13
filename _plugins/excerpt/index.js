@@ -5,8 +5,9 @@ module.exports = {
     eleventyConfig.addShortcode('excerpt', template => {
       // return template.templateContent
       if (!template) return;
-      if (template.data && template.data.excerpt) {
-        return template.data.excerpt;
+      if (template.data) {
+        if (template.data.excerpt) return template.data.excerpt;
+        if (template.data.seo && template.data.seo.description) return template.data.seo.description;
       }
 
       const $ = cheerio.load(template.templateContent);

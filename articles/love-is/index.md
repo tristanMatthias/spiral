@@ -6,7 +6,7 @@ tags:
   - poem
 coverAlt: Rave
 seo:
-  description: Love is.
+  description: A poem on love.
 
 ---
 <!--
