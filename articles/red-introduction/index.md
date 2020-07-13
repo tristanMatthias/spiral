@@ -22,7 +22,7 @@ Red represents the “third stage” of human existence. If you’re new to Spir
 - [Beginning in Beige](https://spirals.blog/articles/beige-introduction/)
 - [Progressing to Purple](https://spirals.blog/articles/purple-introduction/)
 
-This article will provide the necessary context for some of the concepts here.
+These articles will provide the necessary context for some of the concepts here.
 
 Enjoy!
 

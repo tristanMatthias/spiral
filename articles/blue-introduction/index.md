@@ -21,7 +21,7 @@ Blue represents the “fourth stage” of human existence. If you’re new to Sp
 - [Progressing to Purple](https://spirals.blog/articles/purple-introduction/)
 - [Rising to Red](https://spirals.blog/articles/red-introduction/)
 
-This article will provide the necessary context for some of the concepts here.
+These articles will provide the necessary context for some of the concepts here.
 
 Enjoy!
 
