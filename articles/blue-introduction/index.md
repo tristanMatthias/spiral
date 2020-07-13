@@ -52,7 +52,7 @@ The (in)formal Definition of Blue
 4. Order & Hierarchy
 5. Time
 6. Sacrifice now for the future
-7. Truth
+7. Truth & Absolutism
 8. Religion
 9. Service
 10. Beyond Blue
