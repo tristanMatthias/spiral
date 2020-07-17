@@ -1,14 +1,13 @@
 ---
 title: On Psychedelics and Meditation
 written: 2020-07-13
-date: 2020-07-15
+date: 2020-07-17
 tags:
   - meditation
-  - draft
 cover: cover.jpg
 coverAlt: The Hedge Maze
 seo:
-  description: Guilt, fairness, justice. What is truth? And time? Blue has the answers.
+  description: Life is a giant maze. How does one find the exit?
 ---
 
 I’d like, if you’ll permit me, to tell a story on something that has arisen in many conversations for me of late in my travels. It’s a conversation that has never quite sat right with me for some reason, and I feel compelled, now, to articulate a little further as to why.
