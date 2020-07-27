@@ -44,6 +44,28 @@ ul li {
     background: var(--color-hover-bg);
     opacity: 1;
   }
+
+  &:last-child {
+    position: relative;
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      border-radius: var(--border-radius);
+      background-color: var(--color-orange);
+      opacity: 0.2;
+      z-index: -1;
+    }
+    &:after {
+      content: '🔥';
+      position: absolute;
+      top: 50%;
+      transform: translate(-250%, -50%);
+    }
+  }
 }
 
 
