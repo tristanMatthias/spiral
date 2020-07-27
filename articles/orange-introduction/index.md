@@ -9,7 +9,7 @@ tags:
 cover: cover.jpg
 coverAlt: A party of your wildest dreams. Keep dreamin'
 seo:
-  description: So you wanna play in the Big Lague? You reckon you have what it takes? Game on, pal.
+  description: So you wanna play in the Big League? You reckon you have what it takes? Game on, pal.
 htmlClass: orange
 ---
 
