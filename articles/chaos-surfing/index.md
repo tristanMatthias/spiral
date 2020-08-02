@@ -6,9 +6,9 @@ tags:
   - chaos
   - yellow
 cover: cover.jpg
-coverAlt: Finding stability in the modern world of pandemics, AI-distruption, and falling markets.
+coverAlt: Finding stability in the modern world of pandemics, AI-distruption, and failing markets.
 seo:
-  description: Finding stability in the modern world of pandemics, AI-distruption, and falling markets.
+  description: Finding stability in the modern world of pandemics, AI-distruption, and failing markets.
 htmlClass: yellow
 ---
 ## Finding stability in the modern world of pandemics, AI-disruption, and failing markets
