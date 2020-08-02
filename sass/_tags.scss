@@ -63,4 +63,8 @@
     background-color: var(--color-turquoise);
     &::before { content: '🧘‍♀️ ' }
   }
+  &.chaos {
+    background-color: var(--color-black);
+    &::before { content: '⚛️ ' }
+  }
 }

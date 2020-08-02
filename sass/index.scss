@@ -102,6 +102,6 @@ h2 {
     opacity: 1;
   }
 
-  &:after { content: '👇' }
-  &.flip:after { content: '☝️' }
+  &:after { content: '(oldest) 👇' }
+  &.flip:after { content: '(newest) ☝️' }
 }
