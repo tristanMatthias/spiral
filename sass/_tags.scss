@@ -31,40 +31,14 @@
   &.coral { background-color: var(--color-coral); }
 
   &.draft { background-color: var(--color-red); }
-  &.intro {
-    background-color: var(--color-intro);
-    &::before { content: '👋 ' }
-  }
-  &.beginner {
-    background-color: var(--color-beginner);
-    &::before { content: '🌱 ' }
-  }
-  &.intermediate {
-    background-color: var(--color-intermediate);
-    &::before { content: '😎 ' }
-  }
-  &.i {
-    background-color: var(--color-i);
-    &::before { content: '🙋🏼‍♂️ ' }
-  }
-  &.we {
-    background-color: var(--color-we);
-    &::before { content: '🤗 ' }
-  }
-  &.practical {
-    background-color: var(--color-practical);
-    &::before { content: '🏃🏻‍♀️ ' }
-  }
-  &.poem {
-    background-color: var(--color-poem);
-    &::before { content: '📜 ' }
-  }
-  &.meditation {
-    background-color: var(--color-turquoise);
-    &::before { content: '🧘‍♀️ ' }
-  }
-  &.chaos {
-    background-color: var(--color-black);
-    &::before { content: '⚛️ ' }
-  }
+  &.intro { background-color: var(--color-intro); &::before { content: '👋 ' } }
+  &.beginner { background-color: var(--color-beginner); &::before { content: '🌱 ' } }
+  &.intermediate { background-color: var(--color-intermediate); &::before { content: '😎 ' } }
+  &.i { background-color: var(--color-i); &::before { content: '🙋🏼‍♂️ ' } }
+  &.we { background-color: var(--color-we); &::before { content: '🤗 ' } }
+  &.practical { background-color: var(--color-practical); &::before { content: '🏃🏻‍♀️ ' } }
+  &.poem { background-color: var(--color-poem); &::before { content: '📜 ' } }
+  &.meditation { background-color: var(--color-turquoise); &::before { content: '🧘‍♀️ ' } }
+  &.chaos { background-color: var(--color-black); &::before { content: '⚛️ ' } }
+  &.story { background-color: var(--color-purple); &::before { content: '⛰ ' } }
 }
