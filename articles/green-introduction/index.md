@@ -65,7 +65,7 @@ The road bends away from the brightly-lit, flashy, boulevard, and steers into a 
 
 The artificial divisions we constructed and clung to in Blue and Orange soon feel isolating and cold. With our new Green appreciation for harmony and acceptance, we tear down these “unnecessary” walls and bring everyone into the same space. Everyone is welcome. As long as you agree with our values.
 
-With our excessive array of physical possessions sold, our corporate jobs on the back seat, and a new desire for connection on our minds, our spiritually is re-awoken. Maybe we even move to an ashram or commune for the hardcore Green’s amongst us 🙂. We begin the quest to find our center, exploring the inner beings of ourselves and others.
+With our excessive array of physical possessions sold, our corporate jobs on the back seat, and a new desire for connection on our minds, our spirituality is re-awoken. Maybe we even move to an ashram or commune for the hardcore Green’s amongst us 🙂. We begin the quest to find our center, exploring the inner beings of ourselves and others.
 
 The future and the past drop away, and we are left with…now. You speak to most Green’s, ask them what’s important about life, and they’ll tell you it’s about being present. Many experiment with vegetarianism/veganism, horrified by these new feelings and how they pertain to the meat/dairy industry. Maybe we take up yoga or meditation. We get into nature more as it just feels *so much* better to be amongst the earth, the animals, and the fresh air. The smog-ridden rat race feels unimportant to us now. “Why was it ever?” We think.
 
