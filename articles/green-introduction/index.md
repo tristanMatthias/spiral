@@ -166,7 +166,7 @@ Commonly, Green’s dis-interest in materialism leads them to renounce much of t
 
 Taken too far (as it so very often is), these activities lead one to become sanctimonious. We think we’re better somehow. Somewhere along the way towards “self-actualization” we convince ourselves that we’ve somehow entered a higher consciousness. **Many Green’s think they’re Turquoise**, but they’re kidding themselves. Sadly, much of Green seems currently pre-disposed for this style of thought.
 
-This is dangerous and unhealthy as, more often than not, these individuals believe that they have experienced or “reached” something others have not. If you have yet to “connect and be one with the universe” then there is something wrong, and you need to be “fixed”. Needless to say, if you happen to bump into one of these disillusioned, “woke”, travelers, it can be a little unsettling.
+This is dangerous and unhealthy as, more often than not, these individuals believe that they have experienced or “reached” something others have not. If you have yet to “connect and be one with the universe” then there is something wrong, and you need to be “fixed”. Needless to say, if you happen to bump into one of these disillusioned, “woke”, travelers at your next music festival, it can be a little unsettling.
 
 All that aside, Green’s re-focus on deep healing, healthy introspection, self-acceptance, meditation, and healthy mind/body brings a joyous and much needed breathe of fresh air to this point of the Spiral.
 
@@ -191,7 +191,7 @@ In their open-source policy document for contributing, Microsoft has stated that
 
 Green’s quest for making everyone comfortable is plain impractical when taken to a larger scale. In its attempts of inclusivity, it becomes so rigid, so afraid of offending or triggering someone, that it dilutes the entire experience for everyone involved.
 
-The reality is that any decision you make (especially at a product, government, or leadership level) will rub someone the wrong way. The work should not be placed in just reducing “offensive” concepts and training and helping others become more tolerant. This would resolve many of Green’s problems.
+The reality is that any decision you make (especially at a product, government, or leadership level) will rub someone the wrong way. The work should not be placed in just reducing “offensive” concepts, but instead training and helping others become more tolerant. This would resolve many of Green’s problems.
 
 ### We can be anything we choose
 Until you can’t. Let me explain.
