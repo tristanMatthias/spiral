@@ -73,10 +73,10 @@ Some typical Green behaviors, beliefs, thoughts, and concepts:
 - A deep concern for our earth, climate change, and conservation of nature
 - Refreshment of spirituality, and a desire to “reach out and touch the universe”
 - Political correctness
-- Energized and enthused by ***cooperative*** ventures
+- Energy and enthusiasm for ***cooperative*** ventures
 - Lack of interest in materialism, the Man/Establishment, advertising, and the Blue or Orange Narrative
 - “Peace and love, man”
--
+- Listening intently to others
 
 ## A cultural awakening
 
