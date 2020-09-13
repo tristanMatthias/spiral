@@ -7,9 +7,9 @@ tags:
   - red
   - blue
 cover: cover.jpg
-coverAlt: A momentous leap
+coverAlt: The Guilt Line
 seo:
-  description: Empathy and intelligence are on the rise, but not as fast as the sea levels.
+  description: How our carefree, in-the-moment expression clashes with discipline, order, and the rules we all live by.
 htmlClass: blue
 ---
 
