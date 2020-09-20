@@ -1,5 +1,5 @@
 ---
-title: Our New Species - Pt. 1/2
+title: Our New Species (Part 1/2)
 written: 2020-09-16
 date: 2020-09-20
 tags:
@@ -8,7 +8,7 @@ tags:
 cover: cover.jpg
 coverAlt: Harrison and Alice
 seo:
-  description: Neuralink, SpaceX, remote work, global-warming – The world as we know it has changed 10 years into the future.
+  description: Neuralink, SpaceX, remote work, global-warming – The world as we know it has changed 10 years into the future…
 ---
 
 ## The Age of the Spiritual Machine
