@@ -26,7 +26,7 @@ On the one hand, my mother introduced me to many non-religious (and religious) i
 He had a point, and as a child/teenager, followed this line of thinking dogmatically. My mother’s views seemed “airy-fairy,” not based on any truth I could perceive, and some were pretty wacky. But as I grew older, I relaxed my absolutistic thinking, looked past the hatred and claims of “truth” on all sides, and tried to understand where everyone was coming from.
 
 ## Non-Casual Reality
-For the overwhelming majority of us, life is linear or “causal”. A *causes* B, then C. I got the promotion *because I* worked hard. He left me *because he* couldn’t deal with **me** standing up for myself. World War 2 stared because Hitler invaded Poland.
+For the overwhelming majority of us, life is linear or “causal”. A *causes* B, then C. I got the promotion *because I* worked hard. He left me *because he* couldn’t deal with **me** standing up for myself. World War 2 started because Hitler invaded Poland.
 
 For our brains to cope with reality, we need simple explanations to deal with the messy soup of what is going on around us. If we didn’t have clear, simple reasons for things, it would be immeasurably confronting to recognize patterns, make predictions, plan for the future, or explain to children why they shouldn’t hit their siblings. We *need* to draw lines from event to event to explain the very existence in which we live. Or so we think.
 
