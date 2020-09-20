@@ -33,7 +33,7 @@ Harrison was still stuck as a QA engineer, left to do the manual human testing o
 
 A temporary blast of cold water shattered his stream of thought. He dried off in the kitchen and put on a brew of Golden Teacher mushroom tea. It had been 3 years since psychedelic psilocybin mushrooms had been approved for legal, personal use. Harrison brewed them daily. It was not enough to feel anything or create any hallucinations. The tea gave Harrison a necessary, though only slight, edge in the competition with the Connies. Others had also embraced the “natural augmentation” that psilocybin offered, eager for anything to expand the mind and stay relevant amongst the chaos. An increasingly common blend of techno-spirituality and psychonaut techniques permeated Harrison’s online social network.
 
-Since the “Linked Revolution,” a “Connie” was a nick-name for those fortunate enough to afford and receive the Neuralink surgery. They were a different kind. The “Linked Revolution” took the world by storm. An increasing number of professionals, creatives, investors, business-people, and politicians itching to get the implant. They couldn’t build the installation machines fast enough.
+Since the “Linked Revolution”, a “Connie” was a nick-name for those fortunate enough to afford and receive the Neuralink surgery. They were a different kind. The “Linked Revolution” took the world by storm. An increasing number of professionals, creatives, investors, business-people, and politicians itching to get the implant. They couldn’t build the installation machines fast enough.
 
 The world underwent vast sweeping changes as the bandwidth between humans and machines exploded by several orders of magnitude. A bridge for humanity and AI to co-exist. Human 2.0.
 
