@@ -19,7 +19,7 @@ A softly toned, analog alarm pierced the quiet of Harrison’s city apartment. H
 
 He sighed, rolling out of bed, and switched on his phone. The morning ritual’s feed sprung to life with a firehose of ads, notifications, software updates, and Twitter notifications – all masquerading with self-importance.
 
-Harrison scrolled through, filtering for anything important, or messages from loved ones. Amid the stupid tweet recommendations and ancient newsletters he really ought to unsubscribe from, a Calendar notification caught his eye.” Meeting reminder: Lunch with Jacob @ 12pm”. That would be interesting.
+Harrison scrolled through, filtering for anything important, or messages from loved ones. Amid the stupid tweet recommendations and ancient newsletters he really ought to unsubscribe from, a Calendar notification caught his eye.” Meeting reminder: Lunch with Jacob @ 12pm”. He was looking forward to this.
 
 ---
 
@@ -169,3 +169,6 @@ The Sergeant’s argument was that Earth was demanding too many critical mineral
 The breezy bike-path along the lake gave way to chic, elegant architecture, stylish murals, and groomed hedge-trees. The people here dressed differently, and nobody said a word—Connie territory.
 
 Harrison had arrived.
+
+
+<center style="font-style: italic; font-weight: bold; margin-top: 120px">To be continued…</center>
