@@ -27,7 +27,7 @@ Stepping into the shower, he welcomed the hot water to wash away an average nigh
 
 His mind booted up. He hadn’t seen anything in the mornings feed regarding his application for the Neuralink surgery. He grew anxious; it was just over a week since they said they would get back to him, and there was still radio-silence.
 
-Feelings of jealousy arose with painful thoughts of his fellow programming colleague who’d recently received a Nueralink. Already, in the two weeks since he’d had the surgery, his co-worker had rebuilt the entire API service for his department, learned sales, marketing, and was now championing technical client relations. All with a new paycheck and high-praise from the CEO, of course.
+Feelings of jealousy arose with painful thoughts of his fellow programming colleague who’d recently received a Neuralink. Already, in the two weeks since he’d had the surgery, his co-worker had rebuilt the entire API service for his department, learned sales, marketing, and was now championing technical client relations. All with a new paycheck and high-praise from the CEO, of course.
 
 Harrison was still stuck as a QA engineer, left to do the manual human testing of the AI’s complicated work. Despite the consistent late-night studying, algorithm practice, and competition submissions, he was only just managing to stay afloat at his job. 5 years ago, he had a high paying role as a senior engineer, but some things had changed in the past few years. It was hard to keep up.
 
