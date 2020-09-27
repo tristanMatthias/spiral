@@ -11,6 +11,10 @@ seo:
   description: Neuralink, SpaceX, remote work, global-warming – The world as we know it has changed 10 years into the future…
 ---
 
+<div class="toc">
+This is part one of this story. <a href="/articles/our-new-species-pt-2">You can read part two here!</a>
+</div>
+
 ## The Age of the Spiritual Machine
 
 ### Boot Sequence
@@ -170,5 +174,8 @@ The breezy bike-path along the lake gave way to chic, elegant architecture, styl
 
 Harrison had arrived.
 
-
-<center style="font-style: italic; font-weight: bold; margin-top: 120px">To be continued…</center>
+<div class="toc" style="text-align: center">
+  To be continued…
+  <br />
+  <a href="/articles/our-new-species-pt-2">👉 You can read part two here! 👈 </a>
+</div>
