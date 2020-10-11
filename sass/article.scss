@@ -92,3 +92,12 @@ main {
     opacity: 0.2;
   }
 }
+
+
+.slack-invite {
+  line-height: 2;
+  background: var(--color-text);
+  color: var(--color-bg);
+  border-radius: var(--border-radius);
+  padding: 4rem;
+}
