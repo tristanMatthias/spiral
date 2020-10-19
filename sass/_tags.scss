@@ -13,7 +13,7 @@
   padding: 0 1rem;
   white-space: nowrap;
   line-height: 2.3;
-  max-width: 20rem;
+  // max-width: 20rem;
 
   & + & {
     margin-left: 1rem;
@@ -42,4 +42,5 @@
   &.chaos { background-color: var(--color-black); &::before { content: '⚛️ ' } }
   &.story { background-color: var(--color-purple); &::before { content: '⛰ ' } }
   &.future { background-color: var(--color-black); &::before { content: '🚀 ' } }
+  &.change-condition { background-color: var(--color-orange); &::before { content: '✅ ' } }
 }
