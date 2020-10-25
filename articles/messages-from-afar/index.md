@@ -10,7 +10,7 @@ seo:
   description: A collection of short poems.
 ---
 
-*Herein lies a collection of poems that came to me one evening. I do not claim
+*Herein lies a collection of poems that came to me one evening. I do not claim to
 have written them, more that I was fortunate enough for them to pass through me.*
 
 *May you reflect on these as I did when they arose.*
