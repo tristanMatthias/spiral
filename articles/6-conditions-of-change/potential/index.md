@@ -129,6 +129,6 @@ Potential is just **one** of the Six Conditions of Change. It is arguably one of
 
 So next time, before jumping into that new exercise routine, company structure, or country, have a look at your own **Potential**. Are you **Closed** in some areas, and **Open** in others? Where could you be more flexible? What is holding you **Arrested**, limiting your options?
 
-Next up, we’ll take a look at Solutions, and how focusing on where we’re at can make all the difference.
+(Next up, we’ll take a look at Solutions)[/articles/6-conditions-of-change/solutions/], and how focusing on where we’re at can make all the difference.
 
 [👈 Back to all conditions](/articles/6-conditions-of-change/)

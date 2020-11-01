@@ -54,7 +54,7 @@ seo:
 ### [👇 Skip to the conditions 👇](#conditions)
 
 1. [**Potential:** How flexible are you? 👉](potential/)
-2. **Solutions:** What are you solving for? *(Coming Soon)*
+2. [**Solutions:** What are you solving for? 👉](solutions/)
 3. **Dissonance:** Is there enough friction? *(Coming Soon)*
 4. **Barriers:** What confronts you? *(Coming Soon)*
 5. **Insight:** What can the past teach you? *(Coming Soon)*
@@ -94,10 +94,10 @@ Behold! The 6 Keys, initially outlined by Clare Graves and his students Don Beck
       <img src="potential/tile.png" />
     </a>
   </li>
-  <li class="todo">
-    <!-- <a href="solutions"> -->
+  <li>
+    <a href="solutions">
       <img src="solutions/tile.png" />
-    <!-- </a> -->
+    </a>
   </li>
   <li class="todo">
     <!-- <a href="dissonance"> -->
