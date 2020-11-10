@@ -69,6 +69,10 @@ main {
     font-style: italic;
   }
 
+  h2 + h3 {
+    margin-top: 0;
+  }
+
   h4 {
     font-weight: bold;
     font-style: italic;
