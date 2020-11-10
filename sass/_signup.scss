@@ -1,4 +1,6 @@
-.wrapper > .sender-sub-main {
+.wrapper .sender-subs-embeded-form {
+  display: flex;
+  justify-content: center;
   border: 2px solid var(--color-hover-bg);
   border-width: 2px 0;
   margin-bottom: 8rem;
@@ -18,29 +20,43 @@
     margin-bottom: 0 !important;
   }
 
-  .subscription-form {
-    width: 40rem!important;
+
+  form > div:last-child {
+    display: none;
+  }
+
+  .sender-form-title p:first-child:before {
+    content: '🤯 '
+  }
+
+  .sender-form-title p:first-child:after {
+    display: block;
+    content: 'We collect new ideas & frameworks to improve the lives of you & others. Join our weekly newsletter for practical ways to shift your perspective.';
+    font-size: 2.4rem;
+    font-weight: normal;
+  }
+
+  .sender-form-box {
+    width: 50rem!important;
     padding-bottom: 4rem;
     border: none!important;
   }
 
-  .subscription-form-content {
-    font-size: 2.4rem;
-  }
   input {
-    height: 4rem;
+    height: 6rem;
     background: transparent;
     text-align: center;
     border: 2px solid var(--color-input-border)!important;
-    font-size: 1.8rem!important;
+    font-size: 2.4rem!important;
   }
 
   button {
     color: var(--color-bg);
+    font-size: 2.4rem;
   }
 
-  .sender-link-wrapper {
-    display: none!important;
+  label {
+    display: none;
   }
 
   .subscription-thank-you {
