@@ -1,5 +1,6 @@
 ---
-title: "Condition 2: Solutions – The 6 Conditions of Change"
+title: "Solutions: What are you solving for in life?"
+subTitle: Condition 2 in the 6 Conditions of Change
 written: 2020-11-01
 date: 2020-11-01
 tags:
@@ -8,7 +9,7 @@ tags:
 cover: solutions.jpg
 coverAlt: Solve your current problems before moving on
 seo:
-  description: Are you solving for where you’re at, or distracted by someone elses path?
+  description: Are you solving for where you’re at, or distracted by someone else’s path?
 ---
 
 [👈 Back to all conditions](/articles/6-conditions-of-change/)

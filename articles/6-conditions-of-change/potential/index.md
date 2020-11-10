@@ -1,5 +1,6 @@
 ---
-title: "Condition 1: Potential – The 6 Conditions of Change"
+title: "Potential: How flexible are you?"
+subTitle: Condition 1 in the 6 Conditions of Change
 written: 2020-10-18
 date: 2020-10-18
 tags:

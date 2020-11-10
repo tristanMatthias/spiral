@@ -54,8 +54,8 @@ seo:
 ### [👇 Skip to the conditions 👇](#conditions)
 
 1. [**Potential:** How flexible are you? 👉](potential/)
-2. [**Solutions:** What are you solving for? 👉](solutions/)
-3. **Dissonance:** Is there enough friction? *(Coming Soon)*
+2. [**Solutions:** What are you solving for in life? 👉](solutions/)
+3. [**Dissonance:** Your tolerance for change](dissonance/)
 4. **Barriers:** What confronts you? *(Coming Soon)*
 5. **Insight:** What can the past teach you? *(Coming Soon)*
 6. **Environment:** Who is helping you transition? *(Coming Soon)*
@@ -99,10 +99,10 @@ Behold! The 6 Keys, initially outlined by Clare Graves and his students Don Beck
       <img src="solutions/tile.png" />
     </a>
   </li>
-  <li class="todo">
-    <!-- <a href="dissonance"> -->
+  <li>
+    <a href="dissonance">
       <img src="dissonance/tile.png" />
-    <!-- </a> -->
+    </a>
   </li>
   <li class="todo">
     <!-- <a href="barriers"> -->
